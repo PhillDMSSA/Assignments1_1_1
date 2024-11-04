@@ -81,8 +81,8 @@
 
             double sum2 = numberInput1 / numberInput2;
 
-            Console.WriteLine($"The sum of the 2 numbers entered is: {sum}. ({numberInput12} " +
-                $"/ {numberInput13} = {sum}) ");
+            Console.WriteLine($"The sum of the 2 numbers entered is: {sum2}. ({numberInput12} " +
+                $"/ {numberInput13} = {sum2}) ");
 
         }
     }
